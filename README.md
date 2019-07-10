@@ -1,4 +1,4 @@
-<p align="center"><img height="180" width="540" src="./images/flappy_bird.png" alt="Flappy Bird"/><img height="180" width="225" src="./images/bird.gif" alt="Flappy Bird"/></p>
+<p align="center"><img height="180" width="540" src="./images/flappy_bird.png" alt="Flappy Bird"/><img height="180" width="200" src="./images/bird.gif" alt="Flappy Bird"/></p>
 
 # GameScript 2.0
 
